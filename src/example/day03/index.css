@@ -1,0 +1,10 @@
+.backEnd{ color: dodgerblue;}
+#backEndSub{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.warnings{
+    color: white;
+    background-color: coral;
+    font-size: 1.2em;
+}
